@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6gqhSzRPtY2WNHQ4BcQxt1+TXSdpznf4dixLTIyrEfQzfvwSXNlxg5jn0JHJ6etKjbBxn7olIBeNG3yETbCiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artsa\\OneDrive\\Desktop\\Spp2\\FakerPluginSupport\\FakerPluginSupport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artsa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\artsa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
